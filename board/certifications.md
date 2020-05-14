@@ -1,6 +1,7 @@
 ## クラウド
 - [ ] ACP Bigdata
 - [ ] ACE Bigdata
+- [ ] Professional Data Engineer
 
 ## 画像
 - [ ] 画像処理エンジニア検定-エキスパート
