@@ -6,6 +6,7 @@
 - [x] ビッグデータを支える技術
 - [ ] 入門Kubernetes
 - [ ] 分散システムデザインパターン
+- [ ] Infrastructure as Code
 
 ## Python
 - [ ] 入門 Python 3
