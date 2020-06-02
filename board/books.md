@@ -1,13 +1,13 @@
 ## 仕事
 - [x] 実践Terraform　AWSにおけるシステム設計とベストプラクティス
 - [ ] Infrastructure as Code
+- [ ] マイクロサービスアーキテクチャ
 - [ ] クラウドネイティブ・アーキテクチャ
 - [x] ~~ビッグデータを支える技術~~
 - [ ] データ指向アプリケーションデザイン
 - [x] ~~入門Kubernetes~~
+- [x] Kubernetes完全ガイド
 - [x] 分散システムデザインパターン
-- [ ] マイクロサービスアーキテクチャ
-- [ ] Kubernetes完全ガイド
 - [ ] Kubernetes実践ガイド
 - [ ] Kubernetesで実践するクラウドネイティブDevOps
 
