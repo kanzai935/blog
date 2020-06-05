@@ -10,4 +10,3 @@
 
 ## Only Work
 - Kubernetes
-- DevOps
