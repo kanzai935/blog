@@ -44,11 +44,10 @@ ab->b
 ```
 \x1b[2J
 \x1b[H
-x1b[6n
-x1b[K
-x1b[?25l
-x1b[H
-x1b[?25h
+\x1b[6n
+\x1b[K
+\x1b[?25l
+\x1b[?25h
 ```
 1. BRKINT
 1. ICRNL
