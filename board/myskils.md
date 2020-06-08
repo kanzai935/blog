@@ -8,5 +8,5 @@
 - C
 - Python
 
-## Only Work
+## Work
 - Kubernetes
