@@ -35,8 +35,8 @@
 - [ ] Chap16
 - [ ] Chap17
 - [ ] Chap18
-- [ ] Chap19
-- [ ] Chap20
+- [x] Chap19
+- [x] Chap20
 
 #### Kubernetesで実践するクラウドネイティブDevOps
 - [ ] Chap1
