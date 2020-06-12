@@ -25,18 +25,33 @@
 - [x] Chap6
 - [x] Chap7
 - [x] Chap8
+- [x] Chap9
+- [x] Chap10
+- [x] Chap11
+- [ ] Chap12
+- [ ] Chap13
+- [x] Chap14
+- [x] Chap15
+- [x] Chap16
+- [ ] Chap17
+- [ ] Chap18
+- [x] Chap19
+- [x] Chap20
+
+#### 分散システムデザインパターン
+- [x] Chap1
+- [x] Chap2
+- [ ] Chap3
+- [ ] Chap4
+- [ ] Chap5
+- [ ] Chap6
+- [ ] Chap7
+- [ ] Chap8
 - [ ] Chap9
 - [ ] Chap10
 - [ ] Chap11
 - [ ] Chap12
 - [ ] Chap13
-- [ ] Chap14
-- [ ] Chap15
-- [ ] Chap16
-- [ ] Chap17
-- [ ] Chap18
-- [x] Chap19
-- [x] Chap20
 
 #### Kubernetesで実践するクラウドネイティブDevOps
 - [ ] Chap1
@@ -74,18 +89,3 @@
 - [ ] Chap7
 - [ ] Chap8
 - [ ] Chap9
-
-#### 分散システムデザインパターン
-- [x] Chap1
-- [x] Chap2
-- [ ] Chap3
-- [ ] Chap4
-- [ ] Chap5
-- [ ] Chap6
-- [ ] Chap7
-- [ ] Chap8
-- [ ] Chap9
-- [ ] Chap10
-- [ ] Chap11
-- [ ] Chap12
-- [ ] Chap13
