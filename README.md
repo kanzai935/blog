@@ -28,13 +28,13 @@
 - [x] Chap9
 - [x] Chap10
 - [x] Chap11
-- [ ] Chap12
-- [ ] Chap13
+- [x] Chap12
+- [x] Chap13
 - [x] Chap14
 - [x] Chap15
 - [x] Chap16
-- [ ] Chap17
-- [ ] Chap18
+- [x] Chap17
+- [x] Chap18
 - [x] Chap19
 - [x] Chap20
 
