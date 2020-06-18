@@ -28,8 +28,8 @@
 - [x] Chap9
 - [x] Chap10
 - [x] Chap11
-- [x] Chap12
-- [x] Chap13
+- [ ] Chap12
+- [ ] Chap13
 - [x] Chap14
 - [x] Chap15
 - [x] Chap16
