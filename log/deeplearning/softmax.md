@@ -7,7 +7,7 @@
 - 指数を取るとオーバーフローを起こすため、実装の際は、特定の値を足すなどする
 
 ### Softmax 関数の定義
-![sigmoid.png](img/softmax.png)
+![sigmoid.png](img/softmax/softmax.png)
 
 ### オーバーフロー対策
 値の最大値を引くことでオーバーフロー対策を施す
@@ -26,7 +26,7 @@ exp_a = np.exp(x-c)
 y = exp_a / np.sum(exp_a)
 
 print(y)
-print(y.sum(axis=3))
+print(np.sum(y)
 ```
 
 #### 結果
