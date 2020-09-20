@@ -38,7 +38,7 @@
 |31|AWS IoT Core の MQTT トピックの設計|32||
 |32|AWS を使用して IoT を保護する|18||
 |33|ハイブリッドクラウドストレージアーキテクチャのためのファイルゲートウェイ|20||
-|34|[AWS Lambda のセキュリティ概要](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf?did=wp_card&trk=wp_card)|18|[AWS Lambda のセキュリティ概要](AWS Lambda のセキュリティ概要.md)|
+|34|[AWS Lambda のセキュリティ概要](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf?did=wp_card&trk=wp_card)|18|[AWS Lambda のセキュリティ概要](AWSLambdaのセキュリティ概要.md)|
 |35|T2 スタンダードインスタンス CPU クレジットの理解|44||
 |36|Amazon Aurora MySQL データベース管理者のハンドブック: 接続管理|22||
 |37|機械学習の基礎: 機械学習と人工知能の進化|20||
