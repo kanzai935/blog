@@ -1,5 +1,5 @@
 ## このページの使い方
-このページは [AWS WhitePapers](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc) の数ある記事の中で、独断と偏見で必要そうだと感じた記事の要約をまとめています。(2020/09/20現在)
+このページは [AWS WhitePapers](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc) の数ある記事の中で、独断と偏見で必要だと感じた記事の要約がまとまっています。(2020/09/20現在)
 
 ## まとめ
 
@@ -22,14 +22,14 @@
 |15|NoSQL 向けの Amazon DynamoDB と Apache HBase の使用の比較|43||
 |16|適切なサイジング: ワークロードに適したインスタンスのプロビジョニング|15||
 |17|IoT レンズ – AWS Well-Architected|75||
-|18|サーバーレスアプリケーションレンズ – AWS Well-Architected|80||
+|18|[サーバーレスアプリケーションレンズ – AWS Well-Architected](https://d1.awsstatic.com/whitepapers/ja_JP/architecture/AWS-Serverless-Applications-Lens.pdf?did=wp_card&trk=wp_card)|80||
 |19|DDoS に対する回復性に関する AWS のベストプラクティス|32||
 |20|Amazon VPC 向けのハイブリッドクラウド DNS ソリューション|36||
 |21|AWS の耐障害性コンポーネント|23||
 |22|AWS のモダンアプリケーション開発|37||
-|23|AWS によるサーバーレス多層アーキテクチャ: Amazon API Gateway と AWS Lambda の使用|20||
+|23|[AWS によるサーバーレス多層アーキテクチャ: Amazon API Gateway と AWS Lambda の使用](https://d1.awsstatic.com/whitepapers/ja_JP/AWS_Serverless_Multi-Tier_Architectures.pdf?did=wp_card&trk=wp_card)|20||
 |24|AWS クラウドでのウェブアプリケーションのホスティングのベストプラクティス|22||
-|25|AWS でマイクロサービスを実装する|35||
+|25|[AWS でマイクロサービスを実装する](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf?did=wp_card&trk=wp_card)|35||
 |26|Amazon ElastiCache を使用した大規模環境でのパフォーマンス|51||
 |27|クラウドでの変更管理|16||
 |28|設計パターンのベストプラクティス: Amazon S3 のパフォーマンス最適化|12||
@@ -38,7 +38,7 @@
 |31|AWS IoT Core の MQTT トピックの設計|32||
 |32|AWS を使用して IoT を保護する|18||
 |33|ハイブリッドクラウドストレージアーキテクチャのためのファイルゲートウェイ|20||
-|34|AWS Lambda のセキュリティ概要|18||
+|34|[AWS Lambda のセキュリティ概要](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf?did=wp_card&trk=wp_card)|18|[AWS Lambda のセキュリティ概要](AWS Lambda のセキュリティ概要.md)|
 |35|T2 スタンダードインスタンス CPU クレジットの理解|44||
 |36|Amazon Aurora MySQL データベース管理者のハンドブック: 接続管理|22||
 |37|機械学習の基礎: 機械学習と人工知能の進化|20||
@@ -67,9 +67,9 @@
 |60|AWS への移行に関するホワイトペーパー|53||
 |61|AWS でのエンタープライズアーキテクチャの構築|17||
 |62|AWS CloudHSM Backups のセキュリティ|12||
-|63|AWS Lambda を使用したサーバーレスアーキテクチャ|67||
+|63|[AWS Lambda を使用したサーバーレスアーキテクチャ](https://d1.awsstatic.com/whitepapers/ja_JP/serverless-architectures-with-aws-lambda.pdf?did=wp_card&trk=wp_card)|67||
 |64|Amazon EC2 Systems Manager (SSM)、AWS Marketplace、AWS Service Catalog を使用した、安全で承認された AMI ファクトリプロセスの構築|16||
-|65|AWS でのコンテナ化されたマイクロサービスの運用|25||
+|65|[AWS でのコンテナ化されたマイクロサービスの運用](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf?did=wp_card&trk=wp_card)|25||
 |66|AWS クラウド変革の成熟度モデル|23||
 |67|OWASP が提起したウェブアプリケーション脆弱性トップ 10 を AWS WAF で軽減|38||
 |68|Amazon Kinesis を使用した AWS でのストリーミングデータソリューション|29||
@@ -96,7 +96,7 @@
 |89|AWS での SaaS ソリューション: テナント隔離アーキテクチャ|26||
 |90|大規模環境でのセキュリティ: AWS でのガバナンス|16||
 |91|大規模環境でのセキュリティ: AWS でのログ記録|16||
-|92|AWS での Docker: クラウド上でコンテナを実行する|23||
+|92|[AWS での Docker: クラウド上でコンテナを実行する](https://d1.awsstatic.com/whitepapers/docker-on-aws.pdf?did=wp_card&trk=wp_card)|23||
 |93|シングルサインオン: AWS、OpenLDAP、Shibboleth の統合|33||
 |94|大規模環境での AWS インフラストラクチャを管理する|32||
 |95|AWS での DevOps の概要|20||
