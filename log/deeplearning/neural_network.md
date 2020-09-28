@@ -19,4 +19,4 @@
 #### アフィンレイヤの逆伝播の定義
 ![neural_network](img/neural_network/error_back_propagation.png)
 
-- _L_ ・・・出力値
+- _L_ ・・・損失
