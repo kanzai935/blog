@@ -22,4 +22,7 @@
 #### 2乗和誤差の逆伝播の定義
 ![neural_network](img/neural_network/sum_of_squares_error.png)
 
+#### tanhの逆伝播の定義
+![neural_network](img/neural_network/tanh.png)
+
 - _L_ ・・・損失
