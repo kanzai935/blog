@@ -20,9 +20,9 @@
 ![neural_network](img/neural_network/error_back_propagation.png)
 
 #### 2乗和誤差の逆伝播の定義
-![neural_network](img/neural_network/sum_of_squares_error.png)
+![neural_network](img/neural_network/sum_of_squares_error.jpg)
 
 #### tanhの逆伝播の定義
-![neural_network](img/neural_network/tanh.png)
+![neural_network](img/neural_network/tanh.jpg)
 
 - _L_ ・・・損失
