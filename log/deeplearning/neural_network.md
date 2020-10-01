@@ -19,4 +19,7 @@
 #### アフィンレイヤの逆伝播の定義
 ![neural_network](img/neural_network/error_back_propagation.png)
 
+#### 2乗和誤差の逆伝播の定義
+![neural_network](img/neural_network/sum_of_squares_error.png)
+
 - _L_ ・・・損失
