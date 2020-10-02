@@ -25,4 +25,7 @@
 #### tanhの逆伝播の定義
 ![neural_network](img/neural_network/tanh.jpg)
 
+#### 荷重減衰の逆伝播の定義
+![neural_network](img/neural_network/weight_decay.jpg)
+
 - _L_ ・・・損失
