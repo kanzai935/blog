@@ -29,6 +29,10 @@
 1. マイクロサービスアーキテクチャ
 1. マイクロサービスパターン
 1. 分散システムデザインパターン
+1. Kubernetes 完全ガイド（途中）
+1. Docker/Kubernetes開発・運用のためのセキュリティ実践ガイド
+1. Kubernetesで実践するクラウドネイティブDevOps
+1. Kubernetes実践ガイド クラウドネイティブアプリケーションを支える技術
 1. 入門 Python（途中）
 1. Fluent Python
 1. ハイパフォーマンス Python
